@@ -46,7 +46,7 @@ I am passionate about data-driven solutions, AI, and building intelligent system
 ---
 
 ## 📌 GitHub Stats  
-![Noor Fatima Amir’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Noor Fatima Amir’s GitHub stats](https://github-readme-stats.vercel.app/api?username=noor-fatima-amir_icons=true&theme=dark)
 
 ---
 
