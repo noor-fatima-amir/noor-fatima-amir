@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm **Noor Fatima Amir**
+🎓 **BS Data Science Student** at the **University of Management and Technology (UMT)**
+🌱 **Fresher | Learning-focused | Aspiring Data Scientist & Developer**
 
-<!--
-**noor-fatima-amir/noor-fatima-amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+I am currently pursuing a **Bachelor of Science in Data Science** at the University of Management and Technology.
+As a fresher, I am actively building my skills through coursework, practice projects, and self-learning.
 
-Here are some ideas to get you started:
+I am developing a strong foundation in programming, analytical thinking, and modern development tools, with a growing interest in data-driven and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills & Tools**
+
+💻 **Programming Languages**
+C++ • HTML • CSS • Tailwind CSS
+
+🧰 **Tools & Platforms**
+Git • GitHub • Jupyter • Cursor
+
+📊 **Interests**
+
+* Data Science & Analytics
+* Artificial Intelligence & Machine Learning
+* C++ Programming & Problem Solving
+* Web Development Basics
+* Automation & Smart Systems
+
+🌱 **Current Focus**
+
+* Strengthening C++ fundamentals
+* Improving logic & problem-solving
+* Building practice projects
+* Learning through open-source and GitHub
+
+⭐ I am a motivated fresher, eager to learn, grow, and contribute.
+Feel free to explore my repositories and connect with me!
