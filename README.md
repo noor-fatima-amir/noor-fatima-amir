@@ -15,7 +15,8 @@ I am passionate about data-driven solutions, AI, and building intelligent system
 ## 🛠️ Skills & Tools  
 
 ### 💻 Programming Languages  
-- C++  
+- C++
+- Phyton  
 - HTML  
 - CSS  
 - Tailwind CSS  
